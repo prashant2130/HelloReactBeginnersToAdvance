@@ -1,0 +1,11 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "Learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Prashant",
+  "license": "ISC"
+}
